@@ -1,3 +1,6 @@
+GO TO https://netflix-clone-8823c.web.app/ TO CHECK THIS PROJECT OUT!!!
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
